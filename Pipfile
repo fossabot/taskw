@@ -15,6 +15,7 @@ tox = "*"
 pytest = "*"
 pytest-cov = "*"
 pytest-pep8 = "*"
+sphinx = "*"
 
 [requires]
 python_version = "3.6"
