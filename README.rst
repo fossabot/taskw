@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFongshway%2Ftaskw.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFongshway%2Ftaskw?ref=badge_shield)
+
 taskw - Python API for the taskwarrior DB
 =========================================
 
@@ -147,3 +149,7 @@ Using Python-appropriate Types (Dates, UUIDs, etc)
       'uuid': UUID('4882751a-3966-4439-9675-948b1152895c')
      }
     )
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFongshway%2Ftaskw.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFongshway%2Ftaskw?ref=badge_large)
